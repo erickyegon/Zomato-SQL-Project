@@ -102,7 +102,7 @@ Throughout the project, several assumptions were made to address data challenges
 
 ## ERD (Entity Relationship Diagram)
 
-![ERD Diagram](link-to-ERD.png)
+![ERD Diagram](https://github.com/erickyegon/Zomato-SQL-Project/blob/main/erd.png)
 
 ---
 

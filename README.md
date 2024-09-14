@@ -108,7 +108,7 @@ Throughout the project, several assumptions were made to address data challenges
 
 ## Conclusion
 
-This project showcases the use of SQL to solve real-world business problems for a food delivery company. Through detailed data analysis, insights were derived that can help optimize operations, improve customer retention, and increase restaurant revenue. For a comprehensive view of all SQL queries used, visit the SQL section [here](link-to-SQL-queries).
+This project showcases the use of SQL to solve real-world business problems for a food delivery company. Through detailed data analysis, insights were derived that can help optimize operations, improve customer retention, and increase restaurant revenue. For a comprehensive view of all SQL queries used, visit the SQL section [here]([link-to-SQL-queries](https://github.com/erickyegon/Zomato-SQL-Project/blob/main/20%20Business%20Problems%20solution.sql).
 
 ---
 
